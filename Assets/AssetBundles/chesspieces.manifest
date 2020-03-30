@@ -1,0 +1,53 @@
+ManifestFileVersion: 0
+CRC: 551100470
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2e06534b0e63f27be7261d14527bea5e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3a4b0df76aca8b573c8186b739a81da3
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6a057a4424c76514da1ff3f71eb4ffd4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d67086f8a60357f4c90683ce00c3fd9f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 39bc2449c76263c4d9ca4e1f7b00c36a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 07ecbb9bc7bbf6e4cb56c287ed9fcfef, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7ffc754c9838bee4cb4165f3efd6ee4a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: deafab1f087cd8d4fa5468018a09244a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefabs/Marble/Black Knight.prefab
+- Assets/Prefabs/Marble/White King.prefab
+- Assets/Prefabs/Marble/Black King.prefab
+- Assets/Prefabs/Marble/White Knight.prefab
+- Assets/Prefabs/Marble/Black Pawn.prefab
+- Assets/Prefabs/Marble/Black Bishop.prefab
+- Assets/Prefabs/Marble/Black Rook.prefab
+- Assets/Prefabs/Marble/White Pawn.prefab
+- Assets/Prefabs/Marble/Black Queen.prefab
+- Assets/Prefabs/Marble/White Rook.prefab
+- Assets/Prefabs/Marble/White Bishop.prefab
+- Assets/Prefabs/Marble/White Queen.prefab
+Dependencies: []
